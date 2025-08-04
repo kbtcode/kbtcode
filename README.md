@@ -22,5 +22,5 @@ _________
 
 <br>
 
-<a href="https://t.me/yosef05184"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c786c5e3-52e0-4fb2-9329-bc447a331e03" /></a>
-&nbsp;<a href=""><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/ad90c6ca-e2e6-4033-8b37-8f5c140eae79" /></a>
+<a href="https://t.me/yosef05184"><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/4b27007a-1bd9-40c6-98c9-1838dd1f6d9e" /></a>
+&nbsp;<a href=""><img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/591dbef6-46ed-4f33-923e-940d81804e3d" /></a>
