@@ -2,7 +2,7 @@
 ## `About me`
 <br>
 
-**<p>yosef kabootari I'm 20 years old l live in the Iran I'm Front end developer 💻.<br>I'm love programming and like to learn new technology and farmeworks</p>** 
+**<p>yosef kabootari I'm 20 years old l live in the Iran I'm Front end developer 💻.<br>I'm love programming and like to learn new technology and frameworks</p>** 
 <br>
 
 
